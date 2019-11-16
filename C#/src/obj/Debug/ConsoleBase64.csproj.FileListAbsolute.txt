@@ -1,0 +1,10 @@
+C:\www\ConsoleBase64\src\bin\Debug\ConsoleBase64.exe
+C:\www\ConsoleBase64\src\bin\Debug\ConsoleBase64.pdb
+C:\www\ConsoleBase64\src\obj\Debug\ConsoleBase64.csprojResolveAssemblyReference.cache
+C:\www\ConsoleBase64\src\obj\Debug\ConsoleBase64.exe
+C:\www\ConsoleBase64\src\obj\Debug\ConsoleBase64.pdb
+C:\www\ConsoleBase64\C#\src\bin\Debug\ConsoleBase64.exe
+C:\www\ConsoleBase64\C#\src\bin\Debug\ConsoleBase64.pdb
+C:\www\ConsoleBase64\C#\src\obj\Debug\ConsoleBase64.exe
+C:\www\ConsoleBase64\C#\src\obj\Debug\ConsoleBase64.pdb
+C:\www\ConsoleBase64\C#\src\obj\Debug\ConsoleBase64.csprojResolveAssemblyReference.cache
